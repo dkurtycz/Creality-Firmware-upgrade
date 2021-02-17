@@ -1,2 +1,3 @@
 # Creality-Firmware-upgrade
-Upgrading CR 6 Max
+# CR 6 Max
+# looking at community firmware upgrades to printer and display.
